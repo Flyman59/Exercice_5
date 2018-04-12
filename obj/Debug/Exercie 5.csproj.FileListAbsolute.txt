@@ -1,0 +1,23 @@
+C:\Users\Barth\Desktop\Exercice 5\Exercie 5\bin\Debug\Exercie 5.exe.config
+C:\Users\Barth\Desktop\Exercice 5\Exercie 5\bin\Debug\Exercie 5.exe
+C:\Users\Barth\Desktop\Exercice 5\Exercie 5\bin\Debug\Exercie 5.pdb
+C:\Users\Barth\Desktop\Exercice 5\Exercie 5\obj\Debug\Exercie 5.csprojResolveAssemblyReference.cache
+C:\Users\Barth\Desktop\Exercice 5\Exercie 5\obj\Debug\Exercie_5.frmMDI.resources
+C:\Users\Barth\Desktop\Exercice 5\Exercie 5\obj\Debug\Exercie_5.Properties.Resources.resources
+C:\Users\Barth\Desktop\Exercice 5\Exercie 5\obj\Debug\Exercie 5.csproj.GenerateResource.cache
+C:\Users\Barth\Desktop\Exercice 5\Exercie 5\obj\Debug\Exercie 5.csproj.CoreCompileInputs.cache
+C:\Users\Barth\Desktop\Exercice 5\Exercie 5\obj\Debug\Exercie 5.exe
+C:\Users\Barth\Desktop\Exercice 5\Exercie 5\obj\Debug\Exercie 5.pdb
+C:\Users\Barth\Desktop\Exercice 5\Exercie 5\obj\Debug\Exercie_5.frmExo5.resources
+C:\Users\59013-62-11\Desktop\Exercie 5\bin\Debug\Exercie 5.exe.config
+C:\Users\59013-62-11\Desktop\Exercie 5\bin\Debug\Exercie 5.exe
+C:\Users\59013-62-11\Desktop\Exercie 5\bin\Debug\Exercie 5.pdb
+C:\Users\59013-62-11\Desktop\Exercie 5\obj\Debug\Exercie 5.csprojResolveAssemblyReference.cache
+C:\Users\59013-62-11\Desktop\Exercie 5\obj\Debug\Exercie_5.frmExo5.resources
+C:\Users\59013-62-11\Desktop\Exercie 5\obj\Debug\Exercie_5.frmMDI.resources
+C:\Users\59013-62-11\Desktop\Exercie 5\obj\Debug\Exercie_5.frmRandom.resources
+C:\Users\59013-62-11\Desktop\Exercie 5\obj\Debug\Exercie_5.Properties.Resources.resources
+C:\Users\59013-62-11\Desktop\Exercie 5\obj\Debug\Exercie 5.csproj.GenerateResource.cache
+C:\Users\59013-62-11\Desktop\Exercie 5\obj\Debug\Exercie 5.csproj.CoreCompileInputs.cache
+C:\Users\59013-62-11\Desktop\Exercie 5\obj\Debug\Exercie 5.exe
+C:\Users\59013-62-11\Desktop\Exercie 5\obj\Debug\Exercie 5.pdb
